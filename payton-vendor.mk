@@ -22,6 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/payton/proprietary/etc/acdbdata/Hdmi_cal.acdb:system/etc/acdbdata/Hdmi_cal.acdb \
     vendor/motorola/payton/proprietary/etc/acdbdata/Headset_cal.acdb:system/etc/acdbdata/Headset_cal.acdb \
     vendor/motorola/payton/proprietary/etc/acdbdata/Speaker_cal.acdb:system/etc/acdbdata/Speaker_cal.acdb \
+    vendor/motorola/payton/proprietary/vendor/etc/thermal-engine.conf:system/vendor/etc/thermal-engine.conf \
     vendor/motorola/payton/proprietary/etc/zaf/zaf_imx386.json:system/etc/zaf/zaf_imx386.json \
     vendor/motorola/payton/proprietary/etc/zaf/zaf_imx386_mono.json:system/etc/zaf/zaf_imx386_mono.json \
     vendor/motorola/payton/proprietary/etc/zaf/zaf_mot_s5k2l7sa.json:system/etc/zaf/zaf_mot_s5k2l7sa.json \
